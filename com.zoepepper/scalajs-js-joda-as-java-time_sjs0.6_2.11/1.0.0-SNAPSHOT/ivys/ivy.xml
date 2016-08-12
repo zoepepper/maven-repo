@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="com.zoepepper" module="scalajs-js-joda-as-java-time_sjs0.6_2.11" revision="1.0.0-SNAPSHOT" status="integration" publication="20160622201346">
+	<info organisation="com.zoepepper" module="scalajs-js-joda-as-java-time_sjs0.6_2.11" revision="1.0.0-SNAPSHOT" status="integration" publication="20160623113610">
 		<license name="BSD 3-Clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
 		<description>
 		Scala.js js-joda as java.time
